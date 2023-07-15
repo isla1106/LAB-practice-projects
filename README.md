@@ -1,2 +1,2 @@
 # LAB-practice-projects
-include cifar10，ResNet，IMDB，LoRA
+including cifar10，ResNet，IMDB，LoRA
