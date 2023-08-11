@@ -36,10 +36,10 @@ ship : 82 %
 truck : 78 %
 
 ## Practice3
-LSTM模型经过10轮训练后在测试集上准确率为82%，在pos与neg两个类别上的准确率分别为79%与85%,训练曲线如下。
-![Alt Text](practice figures/practice3/LSTM_curve.png) 
-GRU 模型经过10轮训练后在测试集上准确率为83.5%，在pos与neg两个类别上的准确率分别为92%与75%,训练曲线如下。
-![Alt Text](practice figures/practice3/GRU_curve.png)
+LSTM模型经过10轮训练后在测试集上准确率为82%，在pos与neg两个类别上的准确率分别为79%与85%,训练曲线如下。  
+![LSTM_curve](practice figures/practice3/LSTM_curve.png) 
+GRU 模型经过10轮训练后在测试集上准确率为83.5%，在pos与neg两个类别上的准确率分别为92%与75%,训练曲线如下。  
+![GRU_curve](practice figures/practice3/GRU_curve.png)
 
 ## Practice4
 
